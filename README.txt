@@ -5,3 +5,5 @@
 data文件夹中是构建关系图谱所用到的数据，包括人物关系数据、属性数据等
 数据处理文件夹中是收集与处理数据的代码
 所有代码中包含的库/包需要自行配置
+如果有所帮助，请点一个小星星或者关注本人的GitHub，万分感谢。
+If it helps, please click on star or follow my GitHub, thank you very much.
